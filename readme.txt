@@ -1,7 +1,7 @@
 === Spacializer - User Controlled SoundMixing Lightshow Widget ===
 
 Contributors: Kenneth L. Stein
-Donate Link: http://www.plexav.com/tagspace-plugin-wordpress/
+Donate Link: http://www.plexav.com/2009/spacializer-widget/
 Tags: wordpress plugin, wordpress widget, sound mixer, loop mixer, loops, flash widget, widget, plugin, wordpress widget, spacializer, lightshow, audio widget,  wordpress audio, interactive audio, soundmixing, audio loop, audio loops, audio visual, audiovisual loop, lightshow, soundmix, soundmixing
 Requires at least: 2.3 
 Tested up to: 2.8.4
